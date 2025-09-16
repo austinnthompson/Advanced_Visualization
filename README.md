@@ -4,6 +4,8 @@
 
 This Jupyter Notebook showcases data exploration and visualization capabilities using Python packages to analyze the ACLED (Armed Conflict Location & Event Data Project) dataset augmented with U.S. Combatant Command (COCOM) information. The dataset, spanning December 18, 2019, to February 15, 2020, includes conflict events with details like event types, locations, dates, and fatalities. The notebook leverages key Python packages (`pandas`, `matplotlib`, `folium`) to perform data manipulation, temporal analysis, and geospatial visualization.
 
+**Note:** download and open 'https://github.com/austinnthompson/Advanced_Visualization/blob/main/centcom_events_jan7_8.html' to view folium map.
+
 ### Python Packages and Capabilities
 
 #### 1. **Pandas** (`pandas`)
